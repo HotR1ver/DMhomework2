@@ -1,0 +1,46 @@
+frozenset({'mcdonalds'})-->frozenset({'walmart'}) support:0.07287018370444198 conf:0.34623415201153757
+frozenset({'walmart'})-->frozenset({'mcdonalds'}) support:0.07287018370444198 conf:0.3711180840754926
+frozenset({'BP'})-->frozenset({'mcdonalds'}) support:0.2045892133100777 conf:0.9857894392176552
+frozenset({"Dunkin' Donuts"})-->frozenset({'mcdonalds'}) support:0.22283280857136387 conf:0.9499410958110431
+frozenset({'Target'})-->frozenset({'mcdonalds'}) support:0.23528212562575032 conf:0.9572918970729188
+frozenset({'Walgreens'})-->frozenset({'mcdonalds'}) support:0.22340815910480893 conf:0.9775020317548415
+frozenset({'starbucks'})-->frozenset({'mcdonalds'}) support:0.38800371486171203 conf:0.9551669529141481
+frozenset({'starbucks'})-->frozenset({'walmart'}) support:0.2343352889211045 conf:0.5768741775031785
+frozenset({'Chick-fil-A'})-->frozenset({'mcdonalds'}) support:0.20847169683104175 conf:0.9780446333687567
+frozenset({'Dollar General'})-->frozenset({'mcdonalds'}) support:0.27044646295331504 conf:0.9782544572627162
+frozenset({'mcdonalds'})-->frozenset({'SUBWAY'}) support:0.46787324166987565 conf:0.5002761119561321
+frozenset({'SUBWAY'})-->frozenset({'mcdonalds'}) support:0.46787324166987565 conf:0.9847438880201381
+frozenset({'Shell Oil'})-->frozenset({'mcdonalds'}) support:0.34141391261014337 conf:0.9664272890484739
+frozenset({'Chick-fil-A'})-->frozenset({'walmart'}) support:0.2029356468163182 conf:0.9520722635494155
+frozenset({'Dollar General'})-->frozenset({'walmart'}) support:0.268656986884726 conf:0.9717815941269008
+frozenset({'SUBWAY'})-->frozenset({'walmart'}) support:0.3558067365845924 conf:0.7488748617414852
+frozenset({'Shell Oil'})-->frozenset({'walmart'}) support:0.2993725507962036 conf:0.8474224160041036
+frozenset({'mcdonalds'})-->frozenset({'walmart'}) support:0.7307042381135751 conf:0.7813096426045593
+frozenset({'walmart'})-->frozenset({'mcdonalds'}) support:0.7307042381135751 conf:0.9814112822260217
+frozenset({'starbucks'})-->frozenset({'walmart', 'mcdonalds'}) support:0.2306793213581897 conf:0.5678741105881828
+frozenset({'Shell Oil'})-->frozenset({'walmart', 'mcdonalds'}) support:0.2944254422724081 conf:0.8334188253398307
+frozenset({'SUBWAY'})-->frozenset({'walmart', 'mcdonalds'}) support:0.3535823498765488 conf:0.7441931423776651
+frozenset({'Dollar General'})-->frozenset({'walmart', 'mcdonalds'}) support:0.26409948580877524 conf:0.9552962768746722
+frozenset({'mcdonalds'})-->frozenset({'walmart'}) support:0.07287018370444198 conf:0.34623415201153757
+frozenset({'walmart'})-->frozenset({'mcdonalds'}) support:0.07287018370444198 conf:0.3711180840754926
+frozenset({'BP'})-->frozenset({'mcdonalds'}) support:0.2045892133100777 conf:0.9857894392176552
+frozenset({"Dunkin' Donuts"})-->frozenset({'mcdonalds'}) support:0.22283280857136387 conf:0.9499410958110431
+frozenset({'Target'})-->frozenset({'mcdonalds'}) support:0.23528212562575032 conf:0.9572918970729188
+frozenset({'Walgreens'})-->frozenset({'mcdonalds'}) support:0.22340815910480893 conf:0.9775020317548415
+frozenset({'starbucks'})-->frozenset({'mcdonalds'}) support:0.38800371486171203 conf:0.9551669529141481
+frozenset({'starbucks'})-->frozenset({'walmart'}) support:0.2343352889211045 conf:0.5768741775031785
+frozenset({'Chick-fil-A'})-->frozenset({'mcdonalds'}) support:0.20847169683104175 conf:0.9780446333687567
+frozenset({'Dollar General'})-->frozenset({'mcdonalds'}) support:0.27044646295331504 conf:0.9782544572627162
+frozenset({'mcdonalds'})-->frozenset({'SUBWAY'}) support:0.46787324166987565 conf:0.5002761119561321
+frozenset({'SUBWAY'})-->frozenset({'mcdonalds'}) support:0.46787324166987565 conf:0.9847438880201381
+frozenset({'Shell Oil'})-->frozenset({'mcdonalds'}) support:0.34141391261014337 conf:0.9664272890484739
+frozenset({'Chick-fil-A'})-->frozenset({'walmart'}) support:0.2029356468163182 conf:0.9520722635494155
+frozenset({'Dollar General'})-->frozenset({'walmart'}) support:0.268656986884726 conf:0.9717815941269008
+frozenset({'SUBWAY'})-->frozenset({'walmart'}) support:0.3558067365845924 conf:0.7488748617414852
+frozenset({'Shell Oil'})-->frozenset({'walmart'}) support:0.2993725507962036 conf:0.8474224160041036
+frozenset({'mcdonalds'})-->frozenset({'walmart'}) support:0.7307042381135751 conf:0.7813096426045593
+frozenset({'walmart'})-->frozenset({'mcdonalds'}) support:0.7307042381135751 conf:0.9814112822260217
+frozenset({'starbucks'})-->frozenset({'walmart', 'mcdonalds'}) support:0.2306793213581897 conf:0.5678741105881828
+frozenset({'Shell Oil'})-->frozenset({'walmart', 'mcdonalds'}) support:0.2944254422724081 conf:0.8334188253398307
+frozenset({'SUBWAY'})-->frozenset({'walmart', 'mcdonalds'}) support:0.3535823498765488 conf:0.7441931423776651
+frozenset({'Dollar General'})-->frozenset({'walmart', 'mcdonalds'}) support:0.26409948580877524 conf:0.9552962768746722
